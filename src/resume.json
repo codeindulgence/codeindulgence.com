@@ -39,7 +39,7 @@
       "position": "Senior Consultant",
       "website": "http://eyc3.com.au",
       "startDate": "2014-09-10",
-      "summary": "As a senior developer in the company's small, specialised Cloud Services team, responsibilities include maintenance and development of Ruby on Rails Big Data application, solution architecture and infrastructure engineering of advanced analytics platform and software development for a varieity of data and analytics projects.",
+      "summary": "As a senior developer in the company's small, specialised Cloud Services team, responsibilities include maintenance and development of Ruby on Rails Big Data application, solution architecture and infrastructure engineering of advanced analytics platform and software development for a variety of data and analytics projects.",
       "highlights": [
         "Research and development of advanced hosted analytics platform. A scalable solution which supports large scale data ingest, ETL, MPP analytics and real time processing. Targeting cloud platforms AWS and Azure, utilising Hadoop and Spark for distributed computing.",
         "Architectural development of big data platform to support processing and management of terabyte scale data analytics. Built on AWS with a focus on high availability and fault tolerance.",
@@ -56,7 +56,7 @@
       "website": "http://hardhatdigital.com.au",
       "endDate": "2014-09-10",
       "startDate": "2010-05-01",
-      "summary": "Senior Ruby on Rails developer in fast paced agency environment. Development of many websites ranging from single page promotional sites to full ecommerce sites. End to end involvement in projects with full client interaction.",
+      "summary": "Senior Ruby on Rails developer in fast paced agency environment. Development of many websites ranging from single page promotional sites to full e-commerce sites. End to end involvement in projects with full client interaction.",
       "highlights": [
         "Online ordering apps for large wholesale foods distributor. Monolithic PHP Zend application and iOS app consuming SOAP web service.",
         "Development of iOS tablet app and accompanying content management API site for large beverage manufacturer. Featuring review/release workflow.",
@@ -204,7 +204,7 @@
       "keywords": [
         "Table Tennis",
         "Foosball",
-        "Hackey Sack",
+        "Hacky Sack",
         "Nerf Wars"
       ]
     },
