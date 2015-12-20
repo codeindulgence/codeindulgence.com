@@ -14,7 +14,11 @@
     })(document);
   </script>
   <style>
-    html { font-size: 16px; }
+    .wf-loading { opacity: 0; }
+    html {
+      transition: opacity 3s;
+      font-size: 16px;
+    }
     body {
       background-color: #1D1D1D;
       background-image: url(data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAGQAAABkCAYAAABw4pVUAAAABmJLR0QA/wD/AP+gvaeTAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH3wwTDTgAt6c+ggAAANtJREFUeNrt1zEKwCAQRNFJAqm8/23DeoWFgAi+X1v5imWSRlX1erfk3bijrQICRECACAgQATmgqztatKSehWVtqbshAiIgQAQEiIBY6rLULXW5IQICRECACAgQWeqWusVsqcsNASIgQAQEiIBY6rLUvbPU3RABASIgQAQEiCz1vz1JPkvdO0vdDREQIAIiIEAExFKXpW6pyw0BIiACAkRAgMhSt9Qta0vdDREQAQEiIEAExFKXpW6pyw0RECACAkRAgMhSt9QtZktdbggQAQEiIEAE5LilPnzDPk3IGk18+wTSJQAAAABJRU5ErkJggg==);
@@ -58,7 +62,7 @@
       }
       .links { margin-top: 100px; }
       .links li { display: block; }
-      a { 
+      a {
         display: block;
         padding: 30px;
       }
