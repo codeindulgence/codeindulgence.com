@@ -19,7 +19,7 @@
     html {
       font-family: "Times New Roman";
       transition: opacity 3s;
-      font-size: 16px;
+      font-size: 18px;
     }
     body {
       background-color: #1D1D1D;
@@ -27,33 +27,36 @@
       color: #DADADA;
     }
     h1 {
-      font: normal 100 4rem "lato",sans-serif;
+      font: normal 100 3rem "lato",sans-serif;
       text-transform: uppercase;
     }
     .content {
+      box-sizing: border-box;
       width: 800px;
-      margin: 100px auto 0;
+      margin: auto;
     }
     .links li{ display: inline; }
-    ul { padding: 0; margin-top: 50px; }
+    ul { padding: 0; margin-top: 35px; }
     a {
       color: #A2A2A2;
       font-family: "lato", sans-serif;
       text-decoration: none;
       display: inline-block;
-      padding: 5px;
+      padding: 5px 5px 0 0;
     }
     a:hover { color: #CCC; }
 
     @media(max-width: 1080px) {
+      html { font-size: 12px; font-size: 4vw; }
       .content {
         width: 100%;
+        padding: 10%;
         text-align: center;
       }
-      p { margin: 0; }
+      p { font-size: 1.2rem; }
       a {
         display: block;
-        padding: 10px;
+        padding: 5%;
       }
     }
   </style>
