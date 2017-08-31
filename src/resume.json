@@ -2,7 +2,7 @@
   "basics": {
     "name": "Nick Butler",
     "label": "Technical Manager",
-    "picture": "http://www.gravatar.com/avatar/51153493f06d5eeafcfcab54cfda3efa?s=300",
+    "picture": "https://www.gravatar.com/avatar/51153493f06d5eeafcfcab54cfda3efa?s=300",
     "email": "nick@butler.email",
     "phone": "+61 (0)429 539 078",
     "website": "https://www.codeindulgence.com",
@@ -37,7 +37,7 @@
     {
       "company": "EYC3",
       "position": "Manager",
-      "website": "http://eyc3.com.au",
+      "website": "https://eyc3.com",
       "startDate": "2014-09-10",
       "summary": "Starting as a senior developer in the company's small, specialised Cloud Services team, responsible for maintenance and development of monolithic Rails application, architecture engineering of advanced analytics platform and software development for a variety of data and analytics projects. Later promoted to manager as a lead in platform operations and delivery.",
       "highlights": [
@@ -54,7 +54,7 @@
     {
       "company": "Hardhat Digital",
       "position": "Senior Developer",
-      "website": "http://hardhatdigital.com.au",
+      "website": "https://hardhatdigital.com.au",
       "endDate": "2014-09-10",
       "startDate": "2010-05-01",
       "summary": "Senior Ruby on Rails developer in fast paced digital agency. Development of many websites ranging from single page promotional sites to full e-commerce sites. End to end involvement in projects with full client interaction.",
@@ -85,7 +85,7 @@
     {
       "company": "UKFast",
       "position": "PHP Developer",
-      "website": "http://www.ukfast.co.uk/",
+      "website": "https://www.ukfast.co.uk/",
       "endDate": "2008-10-01",
       "startDate": "2007-10-01",
       "summary": "Member of internal web development team for successful hosting company, producing client sites with in house PHP CMS system. "
