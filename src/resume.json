@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Nick Butler",
-    "label": "Senior Software Developer",
+    "label": "Technical Manager",
     "picture": "http://www.gravatar.com/avatar/51153493f06d5eeafcfcab54cfda3efa?s=300",
     "email": "nick@butler.email",
-    "phone": "(61) 429 539 078",
+    "phone": "+61 (0)429 539 078",
     "website": "https://www.codeindulgence.com",
-    "summary": "Nick is a passionate and enthusiastic software developer with 10 years of experience programming applications using web technologies. Specialising in Ruby/Rails development, front end engineering and big data solution architecting. He's a Vim wizard and lives in the terminal. He has a policy of \"If it can be done on the command line, it will be done on the command line\". To the uninitiated his screen(s) typically looks like The Matrix.",
+    "summary": "Nick is a passionate technologist with 10 years of experience in IT delivering solutions ranging from bespoke web and mobile applications to big data platforms. His variety of skills makes him a highly versatile individual who approaches projects with enthusiasm and optimism. When he's not hacking at the command line, he can be found enjoying fantasy novels, gaming or just generally procrastinating on the internet. He also enjoys cycling, snowboarding and photography.",
 
     "location": {
       "city": "Melbourne",
@@ -26,9 +26,9 @@
         "url": "https://au.linkedin.com/in/nickjbutler"
       },
       {
-        "network": "GPG Key",
-        "username": "08F7FFB6",
-        "url": "http://keyserver1.pgp.com/vkd/SubmitSearch.event?SearchCriteria=nick%40butler.email"
+        "network": "Keybase",
+        "username": "nickbutler",
+        "url": "https://keybase.io/nickbutler"
       }
     ]
   },
@@ -36,15 +36,16 @@
   "work": [
     {
       "company": "EYC3",
-      "position": "Senior Consultant",
+      "position": "Manager",
       "website": "http://eyc3.com.au",
       "startDate": "2014-09-10",
-      "summary": "As a senior developer in the company's small, specialised Cloud Services team, responsibilities include maintenance and development of Ruby on Rails Big Data application, solution architecture and infrastructure engineering of advanced analytics platform and software development for a variety of data and analytics projects.",
+      "summary": "Starting as a senior developer in the company's small, specialised Cloud Services team, responsible for maintenance and development of monolithic Rails application, architecture engineering of advanced analytics platform and software development for a variety of data and analytics projects. Later promoted to manager as a lead in platform operations and delivery.",
       "highlights": [
-        "Research and development of advanced hosted analytics platform. A scalable solution which supports large scale data ingest, ETL, MPP analytics and real time processing. Targeting cloud platforms AWS and Azure, utilising Hadoop and Spark for distributed computing.",
+        "Deputy lead of C3's DnA Ops competency",
+        "Key resource in the design and development of hosted analytics platform. A scalable solution which supports large scale data ingest, ETL, MPP analytics and real time processing. Targeting cloud platforms AWS and Azure, utilising Hadoop and Spark for distributed computing.",
         "Architectural development of big data platform to support processing and management of terabyte scale data analytics. Built on AWS with a focus on high availability and fault tolerance.",
         "Development and maintenance of data quality and validation application. Large complex Ruby on Rails application supporting advanced database management with group access controls, complex and aggregate data validation",
-        "Presented seminar on version control with Git, DevOps & Continuous Deployment",
+        "Runs presentations on version control, DevOps & continuous deployment",
         "Delivered workshops on functional programming principles & software development good practices.",
         "Contributed to development and presentation of prototype cyber security platform for a Big Four bank."
       ]
@@ -56,7 +57,7 @@
       "website": "http://hardhatdigital.com.au",
       "endDate": "2014-09-10",
       "startDate": "2010-05-01",
-      "summary": "Senior Ruby on Rails developer in fast paced agency environment. Development of many websites ranging from single page promotional sites to full e-commerce sites. End to end involvement in projects with full client interaction.",
+      "summary": "Senior Ruby on Rails developer in fast paced digital agency. Development of many websites ranging from single page promotional sites to full e-commerce sites. End to end involvement in projects with full client interaction.",
       "highlights": [
         "Online ordering apps for large wholesale foods distributor. Monolithic PHP Zend application and iOS app consuming SOAP web service.",
         "Development of iOS tablet app and accompanying content management API site for large beverage manufacturer. Featuring review/release workflow.",
@@ -70,7 +71,7 @@
       "position": "Freelance Developer",
       "endDate": "2010-05-01",
       "startDate": "2009-11-01",
-      "summary": "Various PHP development jobs, managing multiple project and clients."
+      "summary": "Various PHP development projects, managing multiple project and clients."
     },
 
     {
@@ -78,7 +79,7 @@
       "position": "PHP Developer",
       "endDate": "2009-10-01",
       "startDate": "2008-10-01",
-      "summary": "Developer for account administration site for telecom provider. Integration with PBX systems & online payments. Administration of linux hosting and deployment."
+      "summary": "Lead developer for account administration site for telecom provider. Integration with PBX systems & online payments. Administration of linux hosting and deployment."
     },
 
     {
@@ -105,7 +106,7 @@
   "skills": [
     {
       "name": "Software Development",
-      "level": "Expert",
+      "level": "master",
       "keywords": [
         "Ruby",
         "Ruby on Rails",
@@ -125,7 +126,7 @@
 
     {
       "name": "Infrastructure Engineering",
-      "level": "Intermediate/Advanced",
+      "level": "advanced",
       "keywords": [
         "AWS",
         "Azure",
@@ -142,7 +143,7 @@
 
     {
       "name": "DevOps",
-      "level": "Intermediate/Advanced",
+      "level": "intermediate",
       "keywords": [
         "TDD",
         "BDD",
@@ -185,6 +186,7 @@
       "name": "Cycling",
       "keywords": [
         "Commuting 20-30km",
+        "Bupa Around the Bay",
         "Mountain Biking"
       ]
     },
@@ -195,7 +197,8 @@
         "Sci-fi/Fantasy Reading",
         "Action/Fantasy Movies",
         "Anime & Manga",
-        "Death Metal & Electronic Music"
+        "Death Metal & Electronic Music",
+        "Gaming"
       ]
     },
 
@@ -209,7 +212,18 @@
       ]
     },
 
-    { "name": "Snowboarding" },
-    { "name": "Photography" }
+    { 
+      "name": "Snowboarding",
+      "keywords": [
+        "novice",
+        "goofy"
+      ]
+    },
+    { 
+      "name": "Photography",
+      "keywords": [
+        "Canon 650D"
+      ]
+    }
   ]
 }
